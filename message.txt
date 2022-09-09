@@ -1,2 +1,3 @@
 Hello everyone..
 Git is a great tool to use
+We are using git as a VCS
